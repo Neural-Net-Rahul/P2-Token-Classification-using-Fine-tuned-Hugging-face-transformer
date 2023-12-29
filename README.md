@@ -1,5 +1,7 @@
 # P2-Token-Classification-using-Fine-tuned-Hugging-face-transformer
 
+Deployment Link : https://huggingface.co/spaces/neural-net-rahul/token_classification_fine_tuned
+
 Dataset Used : https://huggingface.co/datasets/conll2003
 
 my own model : https://huggingface.co/neural-net-rahul/bert-finetuned-ner
